@@ -31,5 +31,8 @@
 *.out
 *.app
 
-# Buld dirs
+# Build dirs
 cmake-build-debug
+
+# IDE related
+.idea
